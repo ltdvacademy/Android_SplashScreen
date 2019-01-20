@@ -1,4 +1,4 @@
-package id.luckytruedev.helloworld;
+package id.luckytruedev.splashscreen;
 
 import org.junit.Test;
 

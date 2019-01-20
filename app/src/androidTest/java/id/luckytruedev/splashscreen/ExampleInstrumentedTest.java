@@ -1,4 +1,4 @@
-package id.luckytruedev.helloworld;
+package id.luckytruedev.splashscreen;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

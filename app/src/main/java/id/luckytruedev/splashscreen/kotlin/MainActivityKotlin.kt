@@ -1,8 +1,8 @@
-package id.luckytruedev.helloworld.kotlin
+package id.luckytruedev.splashscreen.kotlin
 
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
-import id.luckytruedev.helloworld.R
+import id.luckytruedev.splashscreen.R
 
 class MainActivityKotlin : AppCompatActivity() {
 
